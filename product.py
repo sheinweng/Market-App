@@ -9,4 +9,9 @@ class Product:
         return f"Product({self.name!r}, {self.price!r})"
     
     def getprice(self):
+<<<<<<< HEAD
         return self.price
+=======
+        return self.price
+    
+>>>>>>> umair
